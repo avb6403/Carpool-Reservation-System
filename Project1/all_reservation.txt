@@ -1,0 +1,24 @@
+Truck Purple        [1]
+(-) (M N) 
+
+Compact Red         [2]
+(-) (Unassigned) (Unassigned) (Unassigned) 
+
+Sedan Blue          [3]
+(-) (Unassigned) (Unassigned) (Unassigned) (Unassigned) 
+
+Truck Green         [4]
+(-) (Unassigned) 
+
+Compact Blue        [5]
+(-) (Unassigned) (Unassigned) (Sammy Vans) 
+
+Sedan Black         [6]
+(-) (Unassigned) (Unassigned) (Unassigned) (Unassigned) 
+
+Compact Yellow      [7]
+(-) (Unassigned) (Unassigned) (Unassigned) 
+
+Sedan Green         [8]
+(-) (Ed Patterson) (Unassigned) (Unassigned) (Unassigned) 
+
